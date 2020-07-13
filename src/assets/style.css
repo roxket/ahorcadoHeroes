@@ -1,0 +1,79 @@
+
+body {
+	margin: auto;
+	padding: 10px;
+	font-size: 12px;
+	font-family: Arial, Helvetica, Verdana;
+}
+
+h2 {
+	color: #000099;
+	margin: auto;
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.errorAlert {
+	font-weight: bold;
+	margin: auto;
+	text-align: center;
+	color: #FFF;
+	background-color: #990000;
+	border: 1px solid #660000;
+	padding: 5px;
+}
+
+.successAlert {
+	font-weight: bold;
+	margin: auto;
+	text-align: center;
+	background-color: #66CC66;
+	border: 1px solid #33AA33;
+	padding: 5px;
+}
+
+
+#imagen {
+	margin: auto;
+	text-align: center;
+}
+
+
+#letraSeleccionada, #letraAdivinada {
+	padding: 10px;
+	text-align: center;
+}
+
+#letrasAdivinadas {
+	margin: auto;
+	text-align: left;
+	padding: 10px;
+	background-color: #CCC;
+}
+
+#empezarJuego {
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	padding: 10px;
+	background-color: #CCC;
+}
+
+#content {
+	margin: auto;
+	padding: 10px;
+	width: 60%;
+}
+
+
+#select_letra input[type="text"] {
+	border: 1px solid #000;
+	background-color: #DDD;
+}
+
+#empezarJuego input[type="submit"], #select_letra input[type="submit"] {
+	border: 1px solid #000;
+	background-color: #666;
+	color: #FFF;
+}
