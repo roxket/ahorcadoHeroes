@@ -11,4 +11,4 @@ Pronto..
 Simplemente descomprimir el proyecto en la raiz '/htdocs' en un servidor web local como [XAMPP](https://www.apachefriends.org/es/index.html). Iniciar el servicio y dirigirse a http://localhost/ahorcadoHeroes/
 
 # Screenshot
-![screenshot](/relative/path/to/img.jpg?raw=true "")
+![alt text](https://github.com/roxket/ahorcadoHeroes/blob/master/ahorcadoHeroes-screenshot.JPG?raw=true "Screenshot app")
