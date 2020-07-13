@@ -4,7 +4,7 @@ Juego del ahorcado en PHP POO MVC. Adivina el héroe detrás de las barras y gan
 # Tecnologías
 HTML5, CSS, Bootstrap 4, PHP, Composer, PHPUnit
 
-#DEMO
+# DEMO
 Pronto..
 
 # Instalación
